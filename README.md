@@ -5,4 +5,6 @@
 
 Resource|URL
 ---|---
-Intro|[Intro Slides](https://gdidayton.github.io/class-slides/intro-slides.html)
+Intro Slide Template|[Intro Slides](https://gdidayton.github.io/class-slides/intro-slides-template.html)
+Intro Slide Example|[Intro Slides](https://gdidayton.github.io/class-slides/intro-slides.html)
+Intro Slides Intro to SQL at Sparkbox|[Intro Slides](https://gdidayton.github.io/class-slides/intro-slides-intro-sql.html)

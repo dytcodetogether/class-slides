@@ -2,7 +2,7 @@
 
 #### Network: BuildRight
 #### Password: See White Board
-#### Slides: [http://annyedriscoll.com/intro-to-sql/#/](http://annyedriscoll.com/intro-to-sql/#/)
+#### Slides: [https://gdidayton.github.io/intro-to-sql/#/](https://gdidayton.github.io/intro-to-sql/#/)
 
 While you wait for class to begin, get on the wifi, bring up the slides and go through the prerequistes for class.
 
